@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .dashboard {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input, button {
+    margin: 5px 0;
+    padding: 8px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button.edit-button {
+    width:20%;
+    height:70%;
+    background-color: #2196F3; /* Blue color for the Edit button */
+  }
+  
+  button.delete-button {
+    width:20%;
+    height:70%;
+    margin-right:-160px;
+    background-color: #f44336; /* Red color for the Delete button */
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .product-item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .product-item button {
+    padding: 6px 12px; /* Adjust the padding for better visual */
+  }
+  
+  
+  /* The CSS styles you already have, no changes needed */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  .dashboard {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  /* ... Rest of your CSS styles ... */
+  
+  
+  

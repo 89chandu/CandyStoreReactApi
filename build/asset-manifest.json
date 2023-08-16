@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SellerAdminReact/static/css/main.c8246c25.css",
+    "main.js": "/SellerAdminReact/static/js/main.9b71c482.js",
+    "static/js/787.4f7f33ac.chunk.js": "/SellerAdminReact/static/js/787.4f7f33ac.chunk.js",
+    "index.html": "/SellerAdminReact/index.html",
+    "main.c8246c25.css.map": "/SellerAdminReact/static/css/main.c8246c25.css.map",
+    "main.9b71c482.js.map": "/SellerAdminReact/static/js/main.9b71c482.js.map",
+    "787.4f7f33ac.chunk.js.map": "/SellerAdminReact/static/js/787.4f7f33ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8246c25.css",
+    "static/js/main.9b71c482.js"
+  ]
+}

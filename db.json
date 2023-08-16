@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "dairy milk",
+      "price": "10",
+      "color": "smooth",
+      "size": "",
+      "id": 1
+    },
+    {
+      "name": "ecll",
+      "price": "2",
+      "color": "milk",
+      "size": "",
+      "id": 2
+    },
+    {
+      "name": "wda",
+      "price": "456",
+      "color": "asxa",
+      "size": "",
+      "id": 3
+    }
+  ]
+}

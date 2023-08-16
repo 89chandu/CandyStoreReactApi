@@ -1,0 +1,24 @@
+/* Add these styles to your CSS file */
+.cart-icon-container {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    z-index: 999; /* Ensure the icon is on top of other content */
+  }
+  
+  .cart-icon {
+    font-size: 50px;
+  }
+  
+  .cart-item-count {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 0.2rem 0.5rem;
+    margin-left: 5px; /* Adjust the spacing between icon and count */
+    font-size: 0.6rem;
+  }
+  
