@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CandyStoreReactApi/static/css/main.22e11e83.css",
+    "main.js": "/CandyStoreReactApi/static/js/main.7f7a7ec6.js",
+    "index.html": "/CandyStoreReactApi/index.html",
+    "main.22e11e83.css.map": "/CandyStoreReactApi/static/css/main.22e11e83.css.map",
+    "main.7f7a7ec6.js.map": "/CandyStoreReactApi/static/js/main.7f7a7ec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e11e83.css",
+    "static/js/main.7f7a7ec6.js"
+  ]
+}
